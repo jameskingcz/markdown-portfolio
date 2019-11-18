@@ -1,0 +1,5 @@
+# **Skills**
+
+- R
+- SQL
+- Tableau
